@@ -1,0 +1,1215 @@
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '93']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3855496950366652
+INFO:root:validation r2_score : 0.36210991352587235
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9076185407414977
+INFO:root:group counts : 
+1    446
+2    488
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '30']
+INFO:root:['latent_dim', '3']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.36805831985983234
+INFO:root:validation r2_score : 0.3480952481787323
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8901860385055149
+INFO:root:group counts : 
+1    207
+2    198
+3    145
+4    166
+5    218
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '30']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.34002761374771856
+INFO:root:validation r2_score : 0.317850616076045
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8657626952345974
+INFO:root:group counts : 
+1    193
+2    175
+3    188
+4    161
+5    217
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '30']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.33805234731489525
+INFO:root:validation r2_score : 0.3134595013693803
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8770782186138838
+INFO:root:group counts : 
+1    185
+2    189
+3    189
+4    145
+5    226
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '30']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.33805234731489525
+INFO:root:validation r2_score : 0.3134595013693803
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8770782186138838
+INFO:root:group counts : 
+1    185
+2    189
+3    189
+4    145
+5    226
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.33805234731489525
+INFO:root:validation r2_score : 0.3134595013693803
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8770782186138838
+INFO:root:group counts : 
+1    185
+2    189
+3    189
+4    145
+5    226
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4537522687883189
+INFO:root:validation r2_score : 0.4191319474552263
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8661384141180164
+INFO:root:group counts : 
+1    205
+2    235
+3    293
+4     47
+5    154
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4865926337612385
+INFO:root:validation r2_score : 0.42989952814619986
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.8383997835367076
+INFO:root:group counts : 
+1    314
+2    292
+3    328
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.47021121387455705
+INFO:root:validation r2_score : 0.4295424995859843
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8676218999486114
+INFO:root:group counts : 
+1    296
+2    297
+3    168
+4     26
+5    147
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4543211514283572
+INFO:root:validation r2_score : 0.42324797518866936
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9048962831834548
+INFO:root:group counts : 
+1    385
+2    549
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '1']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.41395970910242214
+INFO:root:validation r2_score : 0.3872163862083382
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '0']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4543211514283572
+INFO:root:validation r2_score : 0.42324797518866936
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9048962831834548
+INFO:root:group counts : 
+1    385
+2    549
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '1']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.41395970910242214
+INFO:root:validation r2_score : 0.3872163862083382
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8058466130015058
+INFO:root:group counts : 
+1    329
+2    284
+3    133
+4    188
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '2']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '3']
+INFO:root:['latent_dim', '3']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.34126504731261176
+INFO:root:validation r2_score : 0.3095446546061398
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8321980660260091
+INFO:root:group counts : 
+1    237
+2    172
+3    176
+4    179
+5    170
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '4']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.3321649454604338
+INFO:root:validation r2_score : 0.3120754865437711
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7507280845539677
+INFO:root:group counts : 
+1    227
+2    188
+3    145
+4    159
+5    215
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '5']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.4264705841389606
+INFO:root:validation r2_score : 0.3945416404593914
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.8838072497215907
+INFO:root:group counts : 
+1    291
+2    331
+3    312
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '6']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.4682670966717638
+INFO:root:validation r2_score : 0.4129541099925603
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7643435550146711
+INFO:root:group counts : 
+1    222
+2    220
+3    264
+4     70
+5    158
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '7']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.5073964866546361
+INFO:root:validation r2_score : 0.4501855318691204
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.8352260920285693
+INFO:root:group counts : 
+1    504
+2    430
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '8']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.42388145240885117
+INFO:root:validation r2_score : 0.38370364769062126
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.8832601361087096
+INFO:root:group counts : 
+1    295
+2    305
+3    334
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '9']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.3858405319284629
+INFO:root:validation r2_score : 0.3591364714456211
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8439141916555165
+INFO:root:group counts : 
+1    229
+2    193
+3    291
+4    221
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '10']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3894625061080312
+INFO:root:validation r2_score : 0.36099429396988064
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8166310627006306
+INFO:root:group counts : 
+1    276
+2    152
+3    222
+4    181
+5    103
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '11']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.35005160611905883
+INFO:root:validation r2_score : 0.3269397919935735
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8569963138566186
+INFO:root:group counts : 
+1    236
+2    135
+3    181
+4    181
+5    201
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '12']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.2351866074227443
+INFO:root:validation r2_score : 0.22009523168052442
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7757056086197743
+INFO:root:group counts : 
+1    633
+2     88
+3     34
+4    125
+5     54
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '13']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.42854310530065565
+INFO:root:validation r2_score : 0.38868129018827824
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8670286453495335
+INFO:root:group counts : 
+1    239
+2    270
+3    237
+4     34
+5    154
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '14']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '150']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4580168818260152
+INFO:root:validation r2_score : 0.40979329760903316
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8567391006111569
+INFO:root:group counts : 
+1    198
+2    265
+3    285
+4    186
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '15']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.49765770512876273
+INFO:root:validation r2_score : 0.4562085711256913
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.8464429141735506
+INFO:root:group counts : 
+1    401
+2    533
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '16']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3483386469883564
+INFO:root:validation r2_score : 0.3182202669107941
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9456361444106788
+INFO:root:group counts : 
+1    472
+2    462
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '17']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.28780178901792397
+INFO:root:validation r2_score : 0.26644828029346407
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8503829670534199
+INFO:root:group counts : 
+1    195
+2    204
+3    146
+4    189
+5    200
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '18']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.2909473293806064
+INFO:root:validation r2_score : 0.27003583155595406
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7559405934468275
+INFO:root:group counts : 
+1    171
+2    246
+3    233
+4    160
+5    124
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '19']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.41195561486501725
+INFO:root:validation r2_score : 0.3812121106321236
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.74618315516385
+INFO:root:group counts : 
+1    296
+2    318
+3     36
+4     69
+5    215
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '20']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.35333642849077856
+INFO:root:validation r2_score : 0.3341439261122868
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.867056127294229
+INFO:root:group counts : 
+1    304
+2    292
+3    338
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '21']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.4065227313761854
+INFO:root:validation r2_score : 0.3621930684748789
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8700468451832273
+INFO:root:group counts : 
+1    236
+2    286
+3    230
+4    182
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '22']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.39183216682366395
+INFO:root:validation r2_score : 0.367131916651826
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.8654476850639723
+INFO:root:group counts : 
+1    294
+2    300
+3    340
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '23']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.48687114024629224
+INFO:root:validation r2_score : 0.45027808249686885
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8377241749502782
+INFO:root:group counts : 
+1    221
+2    262
+3    294
+4    157
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '24']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.4816196535539498
+INFO:root:validation r2_score : 0.4209524468576393
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.800197275224438
+INFO:root:group counts : 
+1    211
+2    203
+3    283
+4     81
+5    156
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '25']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.3554693323418123
+INFO:root:validation r2_score : 0.32773113392936115
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8721392498025464
+INFO:root:group counts : 
+1    208
+2    204
+3    175
+4    155
+5    192
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '26']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.415623952153871
+INFO:root:validation r2_score : 0.3867452606021813
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8206799803474523
+INFO:root:group counts : 
+1    173
+2    212
+3    224
+4    161
+5    164
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '27']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.45173869327787036
+INFO:root:validation r2_score : 0.41467485723181613
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7869351649658829
+INFO:root:group counts : 
+1    209
+2    166
+3    376
+4     75
+5    108
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '28']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.23708121541695618
+INFO:root:validation r2_score : 0.22014956762359678
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9710619602221477
+INFO:root:group counts : 
+1    469
+2    465
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '29']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.24981759546163
+INFO:root:validation r2_score : 0.22349655925087236
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7385719484584551
+INFO:root:group counts : 
+1    313
+2    146
+3    169
+4    166
+5    140
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '30']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '31']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.4455642221757053
+INFO:root:validation r2_score : 0.4041013833489403
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8537961243804535
+INFO:root:group counts : 
+1    242
+2    269
+3    262
+4    161
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '32']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '33']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.34911915689843925
+INFO:root:validation r2_score : 0.3172758529733533
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7966695196126405
+INFO:root:group counts : 
+1    175
+2    249
+3    122
+4    207
+5    181
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '34']
+INFO:root:['latent_dim', '5']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.3738757568829187
+INFO:root:validation r2_score : 0.35266092676079047
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.8942810833024752
+INFO:root:group counts : 
+1    327
+2    298
+3    309
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '35']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.3418272764527587
+INFO:root:validation r2_score : 0.31788644579125935
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8793262230481109
+INFO:root:group counts : 
+1    184
+2    184
+3    200
+4    203
+5    163
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '36']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '50']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.38423250517985835
+INFO:root:validation r2_score : 0.3573481056837144
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.7274996943124306
+INFO:root:group counts : 
+1    395
+2    235
+3    304
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '37']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '130']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.34089381051171425
+INFO:root:validation r2_score : 0.3118650964948575
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8568934564569559
+INFO:root:group counts : 
+1    249
+2    145
+3    197
+4    178
+5    165
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '38']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.33952778056284827
+INFO:root:validation r2_score : 0.315228922827583
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8050241920087321
+INFO:root:group counts : 
+1    135
+2    270
+3    202
+4    327
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '39']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.41946422048030496
+INFO:root:validation r2_score : 0.38875336797530047
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8040995082994445
+INFO:root:group counts : 
+1    188
+2    278
+3    203
+4     80
+5    185
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '40']
+INFO:root:['latent_dim', '7']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '100']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.5192439486996805
+INFO:root:validation r2_score : 0.45335463330256653
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.8412843623711572
+INFO:root:group counts : 
+1    500
+2    434
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '41']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.4223768795902729
+INFO:root:validation r2_score : 0.36965559580109913
+INFO:root:Number of clusters:3
+INFO:root:Clustering Stability:0.826819957267742
+INFO:root:group counts : 
+1    305
+2    298
+3    331
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '42']
+INFO:root:['latent_dim', '9']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '150']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.4348694929550264
+INFO:root:validation r2_score : 0.39103119565552474
+INFO:root:Number of clusters:4
+INFO:root:Clustering Stability:0.8433922826259694
+INFO:root:group counts : 
+1     41
+2    354
+3    475
+4     64
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '43']
+INFO:root:['latent_dim', '2']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '150']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3362222430791012
+INFO:root:validation r2_score : 0.3019279749612051
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.745184902104683
+INFO:root:group counts : 
+1    221
+2    168
+3    200
+4    184
+5    161
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '44']
+INFO:root:['latent_dim', '3']
+INFO:root:['hidden_dim', '20']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.3467765143115914
+INFO:root:validation r2_score : 0.3286671377421525
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.8938994537281566
+INFO:root:group counts : 
+1    219
+2    169
+3    237
+4    142
+5    167
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '45']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '90']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.4562184969199452
+INFO:root:validation r2_score : 0.41065625531236977
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.9218325434987831
+INFO:root:group counts : 
+1    552
+2    382
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '46']
+INFO:root:['latent_dim', '6']
+INFO:root:['hidden_dim', '60']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.5']
+INFO:root:test & validation r2_score : 0.4635362543276655
+INFO:root:validation r2_score : 0.4104512757457759
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.8397855744290156
+INFO:root:group counts : 
+1    544
+2    390
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '47']
+INFO:root:['latent_dim', '8']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '140']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '0.1']
+INFO:root:test & validation r2_score : 0.5183868949578917
+INFO:root:validation r2_score : 0.4646630433382759
+INFO:root:Number of clusters:2
+INFO:root:Clustering Stability:0.8417510811701604
+INFO:root:group counts : 
+1    384
+2    550
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '48']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.32795932142277506
+INFO:root:validation r2_score : 0.30164012012473945
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.9060300178168423
+INFO:root:group counts : 
+1    138
+2    215
+3    214
+4    187
+5    180
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '49']
+INFO:root:['latent_dim', '10']
+INFO:root:['hidden_dim', '30']
+INFO:root:['epochs', '110']
+INFO:root:['learning_rate', '-3']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.25969185238393455
+INFO:root:validation r2_score : 0.23949020686839928
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.7082572338452707
+INFO:root:group counts : 
+1    215
+2    232
+3    161
+4    160
+5    166
+Name: group, dtype: int64
+INFO:numexpr.utils:Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:['index', '49']
+INFO:root:['latent_dim', '4']
+INFO:root:['hidden_dim', '40']
+INFO:root:['epochs', '120']
+INFO:root:['learning_rate', '-2']
+INFO:root:['kl_div_loss_weight', '1']
+INFO:root:test & validation r2_score : 0.32795932142277506
+INFO:root:validation r2_score : 0.30164012012473945
+INFO:root:Number of clusters:5
+INFO:root:Clustering Stability:0.9060300178168423
+INFO:root:group counts : 
+1    138
+2    215
+3    214
+4    187
+5    180
+Name: group, dtype: int64
